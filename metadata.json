@@ -1,0 +1,6 @@
+{
+  "name": "Paaji - Voice AI Assistant",
+  "description": "Personal real-time conversational AI companion powered by Gemini Live audio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
